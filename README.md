@@ -1,11 +1,7 @@
-# Time Series Analysis
+# Time Series Analysis and Forecasting of Energy Consumption in NYC
 
-An introductory project to me learning about time series analysis and forecasting in general 
+- Objective: The goal of this project is to predict energy consumption in NYC over the course of one year. As an introductory project to learning about time series analysis and forecasting, we aim to perform basic exploratory data analysis and STL decomposition.
 
-- Predicition of Energy Consumption in NYC over the course of 1 year
-
-- Performed basic eda and stl decomposition
-
-- Used SARIMAX ( Seasonal ARIMA with exogenous variable as the temperature taken outside) to predict energy to be consumed
+- Methodology: The project will involve the use of SARIMAX (Seasonal ARIMA with an exogenous variable as the temperature taken outside) to predict energy consumption.
 
 Book I used to study time series : https://otexts.com/fpp3/index.html
