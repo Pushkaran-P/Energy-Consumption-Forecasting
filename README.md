@@ -6,6 +6,6 @@ An introductory project to me learning about time series analysis and forecastin
 
 - Performed basic eda and stl decomposition
 
-- Used SARIMAX ( Seasonal ARIMA with exogenous variable as a ) to predict energy to be consumed
+- Used SARIMAX ( Seasonal ARIMA with exogenous variable as the temperature taken outside) to predict energy to be consumed
 
 Book I used to study time series : https://otexts.com/fpp3/index.html
